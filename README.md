@@ -1,4 +1,4 @@
-# EGD-Net
-A Dual-Encoder Network with Entropy-Guided Feature  Fusion for Breast Ultrasound Segmentation.
+# SEU-Net
+Uncertainty-Aware Network for Breast Ultrasound  Lesion Segmentation Guided by Spatial Entropy.
 
 The source code will be released publicly later.
